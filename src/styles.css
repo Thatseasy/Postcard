@@ -1,0 +1,19 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.thebox {
+  height: 100px;
+  background: black;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.cardtext {
+  background: lightsalmon;
+  display: flex;
+  align-items: center;
+  text-align: center;
+}
